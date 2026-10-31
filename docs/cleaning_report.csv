@@ -1,0 +1,9 @@
+split,class,original,kept,removed
+Training,glioma,1400,1400,0
+Training,meningioma,1400,1386,14
+Training,notumor,1400,1281,119
+Training,pituitary,1400,1362,38
+Testing,glioma,400,386,14
+Testing,meningioma,400,398,2
+Testing,notumor,400,400,0
+Testing,pituitary,400,400,0

@@ -1,0 +1,13 @@
+split,class,images
+train,glioma,1120
+validation,glioma,280
+test,glioma,386
+train,meningioma,1108
+validation,meningioma,278
+test,meningioma,398
+train,notumor,1024
+validation,notumor,257
+test,notumor,400
+train,pituitary,1089
+validation,pituitary,273
+test,pituitary,400
